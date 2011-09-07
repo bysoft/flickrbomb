@@ -6,7 +6,7 @@
  * http://www.opensource.org/licenses/mit-license.php
 */
 
-var flickrbombAPIkey = '66b5c17019403c96779e8fe88d5b576d',  //your Flickr API key
+var flickrbombAPIkey = '9f8ee394317a29b7f7f3f43a64a96af5',  //your Flickr API key
 
 /*  flickrbombLicenseTypes values (comma delimited)
 
@@ -67,6 +67,10 @@ startFlickrBomb = function () {
 
 	        changeSrc: function () {
 	          this.save();
+		  console.log(this.id);
+  		  console.log(this);
+		  console.log(this.cid);
+		  console.log(this.attributes.src);
 	        },
 
 	        loadFirstImage: function () {

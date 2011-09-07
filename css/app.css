@@ -23,7 +23,7 @@ p span{background:#666;padding:3px;color:#FFF;-webkit-border-radius:3px;-moz-bor
 h3{padding-top:10px;}
 .setup-icon-small{width:24px;height:24px;position:relative;margin-bottom:-7px;}
 .bomber{background:url('../images/bomber.jpg') 0 75px no-repeat;height:719px;text-align:center;}
-.old-vs-new{position:relative;background:#ddd;-webkit-border-radius:3px;-moz-border-radius:3px;border-radius:3px;padding:15px;padding-top:10px;height:120px;border:1px solid #d2d2d2;}
+/*.old-vs-new{position:relative;background:#ddd;-webkit-border-radius:3px;-moz-border-radius:3px;border-radius:3px;padding:15px;padding-top:10px;height:120px;border:1px solid #d2d2d2;}*/
 .old-vs-new li{position:relative;display:block;float:left;height:115px;padding-left:21px;}
 .old-vs-new li.first{border-right:1px solid #c9c8c8;height:100%;padding-right:21px;padding-left:0;}
 .old-vs-new h5{font-size:12px;padding-bottom:5px;}
