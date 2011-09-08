@@ -1,4 +1,5 @@
 body{background:#eaf0f4 url(../images/bg-clouds.jpg) top center repeat-x;}
+body{background:none;}
 .container{overflow:hidden;width:960px !important;}
 .main-content{position:relative;z-index:1;}
 p{font-size:15px;line-height:1.5;}
@@ -39,3 +40,11 @@ h3{padding-top:10px;}
 .button{background:#2B7F9E;color:#eee !important;}
 .button:hover{background:#3CB1DC;}
 #johnstewart{float:right;padding-left:10px;}
+.img-lg{
+    width:auto!important;
+    z-index:5;
+}
+.loader{
+  position:absolute;
+  z-index:3;
+}
